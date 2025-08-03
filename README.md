@@ -1,6 +1,6 @@
 <h1 align="center">Marcelo Augusto</h1>
 <p align="center">
-  🚀 Desenvolvedor Full Stack | Angular & NestJS | Engenharia de Frontend em andamento
+  🚀 Desenvolvedor Full Stack | Angular & NestJS | PHP | Laravel
 </p>
 
 ---
@@ -44,17 +44,11 @@ Se você também acredita nisso, bora trocar uma ideia! 😉
 ## 🎓 Formação
 
 - 💻 Pós-graduação em **Engenharia de Frontend** (em andamento)
+- 💻 Bacharelado em ciência da computação (completo)
+
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcelo-augusto&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-augusto&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📫 Onde me encontrar
 
