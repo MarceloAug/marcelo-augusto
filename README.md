@@ -30,9 +30,10 @@ Se você também acredita nisso, bora trocar uma ideia! 😉
 ## 🧠 Outras Experiências
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React%20Native-61dafb?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Ionic-3880ff?style=flat-square&logo=ionic&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
@@ -44,7 +45,7 @@ Se você também acredita nisso, bora trocar uma ideia! 😉
 ## 🎓 Formação
 
 - 💻 Pós-graduação em **Engenharia de Frontend** (em andamento)
-- 💻 Bacharelado em ciência da computação (completo)
+- 💻 Bacharelado em **Ciência da Computação** (completo)
 
 
 ---
